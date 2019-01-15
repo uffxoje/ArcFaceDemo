@@ -2,6 +2,8 @@
 # 教程地址
 # Android 实现人脸识别教程[运用虹软人脸识别SDK] - china..._博客园
 # https://www.cnblogs.com/alitaba/p/7456903.html
+# Android 虹软SDK人脸识别图文使用详细
+# https://blog.csdn.net/z979451341/article/details/79468785
 Free SDK demo
 
 >工程如何使用？

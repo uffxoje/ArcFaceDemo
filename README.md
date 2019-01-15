@@ -4,6 +4,8 @@
 # https://www.cnblogs.com/alitaba/p/7456903.html
 # Android 虹软SDK人脸识别图文使用详细
 # https://blog.csdn.net/z979451341/article/details/79468785
+# Android人脸识别开发入门--基于虹软免费SDK实现
+# https://www.jianshu.com/p/75733cff88a3
 Free SDK demo
 
 >工程如何使用？

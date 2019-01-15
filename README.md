@@ -1,5 +1,6 @@
 # ArcFaceDemo
 # 教程地址
+# Android 实现人脸识别教程[运用虹软人脸识别SDK] - china..._博客园
 # https://www.cnblogs.com/alitaba/p/7456903.html
 Free SDK demo
 

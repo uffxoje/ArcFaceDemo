@@ -6,6 +6,17 @@
 # https://blog.csdn.net/z979451341/article/details/79468785
 # Android人脸识别开发入门--基于虹软免费SDK实现
 # https://www.jianshu.com/p/75733cff88a3
+# Android虹软人脸识别sdk使用工具类
+# https://blog.csdn.net/u012539700/article/details/79573561
+# 基于OpenCV320的Android端人脸识别demo搭建(一)
+# http://aigeek.org/2017/06/16/android-facedetect-demo-opencv-320-without-opencvmanager-part1/
+# 人脸识别离线sdk，含人脸比对、性别年龄检测（附C#详细Demo代码）
+# https://download.csdn.net/download/kfy2011/10696581
+# 人脸识别SDK（免费，可商用，有演示、范例、说明书）原创免费发布的开发包 评分:     
+# 系本人原创发布的人脸识别SDK开发包，免费，演示程序和说明及代码范例都很齐全。为人脸识别相关项目产品开发者提供重要的参考，台阶，资源。
+# https://download.csdn.net/download/weixin_42183500/10427861
+# OpenCV-2.4.6-android-sdk 人脸识别demo搭建
+# https://www.cnblogs.com/poe-blog/p/3408908.html
 Free SDK demo
 
 >工程如何使用？
